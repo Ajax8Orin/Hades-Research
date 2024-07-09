@@ -1,40 +1,56 @@
 # Hades-Research
 
-## Basic Static Analysis
+# Hello, I'm Ajax
+<a href="https://linkedin.com/anubhav-patel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Hashing
-File name: Malware.unknown.exe.malz
+I am a Cybersecurity professional working primarily as penetration tester. I have deep passion for research and breaking down things which piqued my interest in reverse engineering and malware research. 
 
-SHA256: 92730427321a1c4ccfc0d0580834daef98121efa9bb8963da332bfd6cf1f 
-MD5: 1d8562c0adcaee734d63f7baaca02f7c
+## Objective
 
-### Strings [Using Floss] :
+Through this platform I aim to enhance my skills as a security researcher and at the same time contribute tto the cybersecurity community with the knowledge I seek. I am looking forward to build my career thorugh breaking down objects and assemblies of code towards in security and malware research!
 
-```
-FLOSS static Unicode strings
-jjjj
-cmd.exe /C ping 1.1.1.1 -n 1 -w 3000 > Nul & Del /f /q "%s"
- #http://ssl-6582datamanager.helpdeskbros.local/favicon.ico
-C:\Users\Public\Documents\CR433101.dat.exe
-Mozilla/5.0
- #http://huskyhacks.dev
-cmd.exe /C ping 1.1.1.1 -n 1 -w 3000 > Nul & Del /f/q "%s" 
-C:\Users\Public\Documents\CR433101.dat.exe
-open
-FLOSS decoded 0 strings
-FLOSS extracted 2 stackstrings
-<2_/
-ineIGenu
-```
+## Skills
 
-### PEview:
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-- SECTION HEADER
-	- Header![[Pasted image 20240516190445.png]]
--  winAPI : PEview and PEStudio
-	- DownloadFromURL
-	- InternetOpenURLA
-	- ShellExec
+## Tools
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Malware Lab
