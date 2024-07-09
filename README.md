@@ -1,7 +1,7 @@
 # Hades-Research
 
 # Hello, I'm Ajax
-<a href="https://linkedin.com/anubhav-patel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com/anubhav-patel](https://www.linkedin.com/in/anubhav-patel/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity professional working primarily as penetration tester. I have deep passion for research and breaking down things which piqued my interest in reverse engineering and malware research. 
 
