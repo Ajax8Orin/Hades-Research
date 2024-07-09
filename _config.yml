@@ -3,17 +3,16 @@ title: Hades Research
 #description: text below image
 #show_downloads: true
 
-title: Your awesome title
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Ajax
+ # email: your-email@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  This a blog space and knowledge sharing platform where we can interact and share
+  our cyber security research. Here we constantly learn and grow with Malware analysis
+  and APT-simulation based resarch.
 
 # Build settings
 
@@ -33,7 +32,7 @@ plugins:
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-header_pages:
+# header_pages:
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
